@@ -1,0 +1,2 @@
+# Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-
+A complete end-to-end Sales Analytics, Forecasting, and GenerativeAI-powered Intelligence Platform that transforms raw sales data into actionable insights.   Built using Python, Machine Learning, Streamlit, and OpenAI GPT, this project delivers enterprise-grade analytics, forecasting, and conversational AI in one unified system.
