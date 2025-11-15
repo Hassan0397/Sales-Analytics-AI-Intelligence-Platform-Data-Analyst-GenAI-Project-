@@ -152,6 +152,8 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 4: 🧪 Model Testing
 **Machine Learning Validation Lab**
 
+[**Model Testing Preview**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/model%20Testing%20Preview%201.png)
+
 **What It Does:**
 - Rigorously tests forecasting model accuracy
 - Compares multiple algorithms side-by-side
@@ -344,6 +346,7 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
 
