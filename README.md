@@ -231,6 +231,8 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 7: ⚙️ Configuration
 **System Management Center**
 
+[**Configuration Preview**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/configuration%20Preview%201.png)
+
 **What It Does:**
 - Manages platform settings and preferences
 - Monitors system performance and health
@@ -366,6 +368,7 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
 
