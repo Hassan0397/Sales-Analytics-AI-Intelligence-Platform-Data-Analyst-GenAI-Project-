@@ -88,6 +88,18 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 2: 📊 Analytics Dashboard
 **Interactive Data Exploration Hub**
 
+[**Analytics Preview 1**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Analytic%20Preview%201.png)
+
+[**Analytics Preview 2**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Analytic%20Preview%202.png)
+
+[**Analytics Preview 3**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Analytic%20Preview%203.png)
+
+[**Analytics Preview 4**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Analytic%20Preview%204.png)
+
+[**Analytics Preview 5**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Analytic%20Preview%205.png)
+
+[**Analytics Preview 6**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Analytic%20Preview%206.png)
+
 **What It Does:**
 - Provides multi-dimensional filtering across products, regions, time periods, and value ranges
 - Shows real-time performance metrics for any data segment
@@ -318,6 +330,7 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
 
