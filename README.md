@@ -196,6 +196,22 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 6: 📁 Data Import
 **Intelligent Data Management Hub**
 
+[**Data Import Preview 1**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%201.png)
+
+[**Data Import Preview 2**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%202.png)
+
+[**Data Import Preview 3**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%203.png)
+
+[**Data Import Preview 4**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%204.png)
+
+[**Data Import Preview 5**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%205.png)
+
+[**Data Import Preview 6**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%206.png)
+
+[**Data Import Preview 7**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%207.png)
+
+[**Data Import Preview 8**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/Upload%20Data%20Preview%208.png)
+
 **What It Does:**
 - Handles multiple file formats and data sources
 - Automatically validates and cleans incoming data
@@ -350,6 +366,7 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
 
