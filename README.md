@@ -4,6 +4,8 @@
 
 A comprehensive enterprise analytics solution that transforms raw business data into actionable intelligence through an integrated pipeline of data preparation, machine learning forecasting, and AI-powered conversational analytics.
 
+This project demonstrates comprehensive time series analysis and forecasting using a dataset stored in CSV format. The Jupyter notebooks in this repository perform data cleaning, exploratory data analysis, and build forecasting models to predict future trends.
+
 ## 🏗️ System Architecture
 
 ### End-to-End Analytics Pipeline
@@ -314,4 +316,5 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
