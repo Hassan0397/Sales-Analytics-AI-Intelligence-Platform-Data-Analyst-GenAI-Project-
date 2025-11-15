@@ -119,6 +119,20 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 3: 🔮 Sales Forecasting
 **Predictive Analytics Engine**
 
+[**Sales Forecasting Preview 1**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%201.png)
+
+[**Sales Forecasting Preview 2**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%202.png)
+
+[**Sales Forecasting Preview 3**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%203.png)
+
+[**Sales Forecasting Preview 4**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%204.png)
+
+[**Sales Forecasting Preview 5**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%205.png)
+
+[**Sales Forecasting Preview 6**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%206.png)
+
+[**Sales Forecasting Preview 7**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/sales%20Forcasting%20PreView%207.png)
+
 **What It Does:**
 - Generates accurate sales predictions using multiple algorithms
 - Provides confidence intervals for risk assessment
@@ -330,6 +344,7 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
 
