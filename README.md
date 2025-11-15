@@ -173,6 +173,10 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 5: 🔍 Smart Search
 **Google-like Data Exploration**
 
+[**Smart Search Preview 1**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/smart%20Search%20Preview%201.png)
+
+[**Smart Search Preview 2**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/smart%20Search%20Preview%202.png)
+
 **What It Does:**
 - Allows natural language questions about your data
 - Automatically generates relevant visualizations
@@ -346,6 +350,7 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
 
