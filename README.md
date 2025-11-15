@@ -67,6 +67,8 @@ Sources Enrichment with Confidence Interface Planning
 ### Tab 1: 🤖 AI Assistant
 **Your Data Conversation Partner**
 
+[**AI Assistant Preview**](https://github.com/Hassan0397/Sales-Analytics-AI-Intelligence-Platform-Data-Analyst-GenAI-Project-/blob/main/AI-Assistant.png)
+
 **What It Does:**
 - Understands natural language questions like "Show me top products by revenue last quarter"
 - Provides instant analysis with business context
@@ -316,5 +318,6 @@ Deployment: Localhost web server with production-ready architecture
 
 ## Author
 Hassan Subhani
+
 
 
